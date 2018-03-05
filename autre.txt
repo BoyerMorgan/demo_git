@@ -2,4 +2,4 @@ Ceci est un fichier texte
 
 Je le modifie depuis github
 
-Et également depuis ma machine locale
+Et également depuis ma machine locale, c'est sympa ce petit jeu d'AR.
